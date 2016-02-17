@@ -13,3 +13,7 @@ You can find more informaiton on our wiki: https://github.com/Stericson/RootTool
 For a more slimmed down library, check out RootShell:
 
 https://github.com/Stericson/RootShell
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/odemolliens/roottools/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
